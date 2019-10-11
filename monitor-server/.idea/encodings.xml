@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-repo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-socket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/monitor-web" charset="UTF-8" />
+  </component>
+</project>

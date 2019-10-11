@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monitor-entity" />
+        <module name="monitor-redis" />
+        <module name="monitor-repo" />
+        <module name="monitor-service" />
+        <module name="monitor-socket" />
+        <module name="monitor-util" />
+        <module name="monitor-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="monitor-entity" target="1.6" />
+      <module name="monitor-redis" target="1.6" />
+      <module name="monitor-repo" target="1.6" />
+      <module name="monitor-server" target="1.6" />
+      <module name="monitor-service" target="1.6" />
+      <module name="monitor-socket" target="1.6" />
+      <module name="monitor-util" target="1.6" />
+      <module name="monitor-web" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

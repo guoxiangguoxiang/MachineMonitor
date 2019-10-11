@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/monitor-entity/monitor-entity.iml" filepath="$PROJECT_DIR$/monitor-entity/monitor-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-redis/monitor-redis.iml" filepath="$PROJECT_DIR$/monitor-redis/monitor-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-repo/monitor-repo.iml" filepath="$PROJECT_DIR$/monitor-repo/monitor-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-server.iml" filepath="$PROJECT_DIR$/monitor-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-service/monitor-service.iml" filepath="$PROJECT_DIR$/monitor-service/monitor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-socket/monitor-socket.iml" filepath="$PROJECT_DIR$/monitor-socket/monitor-socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-util/monitor-util.iml" filepath="$PROJECT_DIR$/monitor-util/monitor-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitor-web/monitor-web.iml" filepath="$PROJECT_DIR$/monitor-web/monitor-web.iml" />
+    </modules>
+  </component>
+</project>

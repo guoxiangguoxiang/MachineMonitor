@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <!--基本信息-->
+    <groupId>com.zju</groupId>
+    <artifactId>monitor-util</artifactId>
+    <name>monitor-util</name>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
+    <modelVersion>4.0.0</modelVersion>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>net.sf.json-lib</groupId>
+            <artifactId>json-lib</artifactId>
+            <version>2.4</version>
+            <scope>compile</scope>
+            <classifier>jdk15</classifier>
+        </dependency>
+    </dependencies>
+
+
+    <parent>
+        <artifactId>monitor-server</artifactId>
+        <groupId>com.zju</groupId>
+        <version>1.0.0.RELEASE</version>
+    </parent>
+
+
+
+</project>

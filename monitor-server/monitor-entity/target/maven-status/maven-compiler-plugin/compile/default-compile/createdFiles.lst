@@ -1,0 +1,6 @@
+com\zju\common\NeedToken.class
+com\zju\common\Result.class
+com\zju\common\JSONResult.class
+com\zju\entity\User.class
+com\zju\common\ErrorStatusAndMessage.class
+com\zju\common\ServiceException.class

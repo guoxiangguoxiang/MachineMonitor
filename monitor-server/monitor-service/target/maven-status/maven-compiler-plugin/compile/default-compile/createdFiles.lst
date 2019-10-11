@@ -1,0 +1,6 @@
+com\zju\service\UserService.class
+com\zju\service\UserInfoService.class
+com\zju\service\UserServiceImpl.class
+com\zju\service\SelfServiceImpl.class
+com\zju\service\SelfService.class
+com\zju\service\UserInfoServiceImpl.class
